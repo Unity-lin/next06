@@ -7,30 +7,31 @@ date : '2023-09-02'
 
 # Game Directory
 
-## overwatch workshop
-### item punch
 
-* OneSword(이채훈) : plan, bug test
+## 1. overwatch workshop
+### 1. item punch
+
+* OneSword(Lee Chae Hoon) : plan, bug test
 * DAJAVU(???) : code 
-### Escape the Cannibal Village
-* OneSword(이채훈) : code 
+### 2. Escape the Cannibal Village
+* OneSword(Lee Chae Hoon) : code 
 * 별이빛나는밤(???) : plan
 * 밤빛(???) : bug test
-### New Queen Street Parkour
-* 원소드(이채훈) : plan & code, obstacle placement(장애물 배치)
-### Move according to color
+### 3. New Queen Street Parkour
+* OneSword(Lee Chae Hoon) : plan & code, obstacle placement(장애물 배치)
+### 4. Move according to color
 * KiSome(???) : plan
-* OneSword(이채훈) : code
+* OneSword(Lee Chae Hoon) : code
 * suri(???) : beta tester
-## minecraft story map
-### Time Limits
-* 이채훈 : map, Circuit
-* 유영재 : story
-* 김태훈 : command
-### Let the sound hear it 
-* 이채훈 : command, Circuit
-* 황유진 : story, map
-### Island with bloody winds blowing
-* 이채훈 : story, Circuit
-* 황유진 : map
-* 박경민 : command 
+## 2. minecraft story map
+### 1. Time Limits
+* Lee Chae Hoon : map, Circuit
+* Yu Yong Jae : story
+* Kim Tae Hoon : command
+### 2. Let the sound hear it 
+* Lee Chae Hoon : command, Circuit
+* Hyang Yu Jin : story, map
+### 3. Island with bloody winds blowing
+* Lee Chae Hoon : story, Circuit
+* Hyang Yu Jin : map
+* Park Jung Min : command 
